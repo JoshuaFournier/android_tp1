@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP_1</string>
+    <!-- Contenu HTML -->
+    <string name="html_content">
+        <![CDATA[
+            <html>
+                <body style="text-align:justify;">
+                <p>L'Angleterre (en anglais England) est une nation constitutive du Royaume-Uni. Elle est bordée par l'Ecosse au nord et le pays de Galles à l'ouest.</p>
+                <body>
+            </html>
+        ]]>
+    </string>
+</resources>
